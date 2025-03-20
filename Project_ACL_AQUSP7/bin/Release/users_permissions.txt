@@ -1,0 +1,4 @@
+admin - 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918 - read, write, append, execute, own
+readonly - 8171bacf32668a8f44b90087ad107ed63170f57154763ba7e44047bf9e5a7be3 - read
+writeonly - 8f3ef82daf955750328e56b1e748d82f63a2aa8c3d5e57c2dc57b96be7994c00 - write
+readandwrite - 125c14039ddd29a8df1201e23af16ba6b8bfd91d3adec409ed1b1e21ed89b372 - read, write

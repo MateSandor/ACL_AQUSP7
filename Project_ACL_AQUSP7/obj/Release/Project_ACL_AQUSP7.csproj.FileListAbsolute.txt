@@ -1,0 +1,14 @@
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\bin\Release\Project_ACL_AQUSP7.exe.config
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\bin\Release\Project_ACL_AQUSP7.exe
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\bin\Release\Project_ACL_AQUSP7.pdb
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.csproj.AssemblyReference.cache
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\MainWindow.baml
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\MainWindow.g.cs
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\App.g.cs
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7_MarkupCompile.cache
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.g.resources
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.Properties.Resources.resources
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.csproj.GenerateResource.cache
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.csproj.CoreCompileInputs.cache
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.exe
+C:\Users\samat\source\repos\Project_ACL_AQUSP7\obj\Release\Project_ACL_AQUSP7.pdb
